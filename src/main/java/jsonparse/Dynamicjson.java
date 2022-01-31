@@ -28,7 +28,7 @@ public class Dynamicjson {
 
 	}
 	
-	//Delete API
+
 	
 
 	//Multiple data testing with Data provider annotation
