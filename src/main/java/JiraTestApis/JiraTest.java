@@ -44,7 +44,7 @@ public class JiraTest {
 	
 	JsonPath js = new JsonPath(issuedetails); 
 	
-	js.get()
+
 		
 
 	}
